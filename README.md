@@ -67,5 +67,6 @@ These insights can inform **aviation safety policies, maintenance priorities, an
 
 ---
  SOURCES:
- The link to the repository is :https://github.com/WanjikuKahoro/Phase-1-Project/tree/master
- The link to the publuc tableau viz is: https://public.tableau.com/authoring/Project-Dashboard_17594248839220/Dashboard1#1
+ 1. The link to the repository is :https://github.com/WanjikuKahoro/Phase-1-Project/tree/master
+ 
+ 2. The link to the publuc tableau viz is: https://public.tableau.com/authoring/Project-Dashboard_17594248839220/Dashboard1#1
