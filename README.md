@@ -53,9 +53,9 @@ The dataset includes the following key columns:
 ## Conclusion
 
 **Summary of Conclusions:**
-1. Certain aircraft manufacturers consistently show lower fatality rates, highlighting safer designs. 
-  Adams is the Riskiest
-  Cub Crafters Inc is the safest
+1. Certain aircraft manufacturers and aircraft caregories consistently show lower fatality rates, highlighting safer designs. 
+  Adams is the Riskiest while Cub Crafters Inc is the safest
+  Rockets have the highest fatality rates. Chance of survival is low.
 
 2. Engine type and number of engines are strongly associated with accident severity; single-engine aircraft and certain engine types have higher fatality risk.  
    1 Engine aircrafts have a higher fatality rate while 6 Engine aircrafts have lower risk
@@ -66,3 +66,6 @@ The dataset includes the following key columns:
 These insights can inform **aviation safety policies, maintenance priorities, and risk management strategies**.
 
 ---
+ SOURCES:
+ The link to the repository is :https://github.com/WanjikuKahoro/Phase-1-Project/tree/master
+ The link to the publuc tableau viz is: https://public.tableau.com/authoring/Project-Dashboard_17594248839220/Dashboard1#1
